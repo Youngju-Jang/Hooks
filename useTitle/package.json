@@ -1,0 +1,25 @@
+{
+  "name": "@hooks/use-title",
+  "version": "1.0.0",
+  "description": "React Hook to update tyour document's title",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Youngju-Jang/Hooks.git"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "title"
+  ],
+  "author": "JYJ",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Youngju-Jang/Hooks/issues"
+  },
+  "homepage": "https://github.com/Youngju-Jang/Hooks#readme",
+  "peerDependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
